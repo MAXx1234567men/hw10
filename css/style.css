@@ -8,9 +8,11 @@
     }
     .header-name {
         font-family: "raleway";
+        font-size: 25px;
     }
     .footer-name {
         font-family: "raleway";
+        font-size: 25px;
     }
     body {
         font-family: "roboto";
